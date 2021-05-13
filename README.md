@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonsilas
 - 👀 I’m interested in developing mobile applications as well as video games!
 - ✔️ I’m proficient in Java, HTML, CSS, and SQL!
-- 🌱 I’m currently learning Python, Swift, Angular, React, and C#!
+- 🌱 I’m currently learning Flutter/Dart, Python, Swift, Angular, React, and C#!
 - 💞️ I’m looking to collaborate on any projects to help widen my skillset!
 - 📫 How to reach me: leonsilasdev@gmail.com
 
