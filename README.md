@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon Silas</h1>
-<h3 align="center">An ardent data scientist and AI engineer from California</h3>
+<h3 align="center">An ardent Computer Science PhD student from California</h3>
 <p align="center">
 <a href="https://www.github.com/leonsilas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leonsilas?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.x.com/leonsilasdev" target="_blank" rel="noreferrer"><img
@@ -7,10 +7,10 @@ src="https://img.shields.io/twitter/follow/leonsilasdev?logo=twitter&style=for-t
 /></a>
 </p>
 
-- 🧠 I’m currently learning: **DNN + AWS**
-- 💬 Ask me about: **AI + ML**
+- 🧠 I’m currently learning: **AWS**
+- 💬 Ask me about: **ML and AI Ethics**
 - 📫 How to reach me: **leonsilasdev@gmail.com**
-- ⚡ Fun fact: **I advise on the same undergraduate program as my alma mater.**
+- ⚡ Fun fact: **I advise and teach for the same undergraduate program as my alma mater.**
 
 
 ### Connect With Me
