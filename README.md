@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/leonsilasdev?logo=twitter&style=for-t
 - 🧠 I’m currently learning: **AWS**
 - 💬 Ask me about: **ML and AI Ethics**
 - 📫 How to reach me: **leonsilasdev@gmail.com**
-- ⚡ Fun fact: **I advise and teach for the same undergraduate program as my alma mater.**
+- ⚡ Fun fact: **I teach for the same undergraduate program as my alma mater.**
 
 
 ### Connect With Me
